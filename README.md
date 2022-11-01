@@ -16,9 +16,11 @@
  </a>
 
 
+ </a>
+ <a href="github.com/ashutosh00710/github-readme-activity-graph">
+ <img src="https://activity-graph.herokuapp.com/graph?username=jwor12427&theme=rogue" width=92%  />
+ </a>
 
-
-[![Ashutosh's github activity graph width=80% ](https://activity-graph.herokuapp.com/graph?username=jwor12427&theme=rogue)](https://github.com/jwor12427/github-readme-activity-graph)   
 
 
 
