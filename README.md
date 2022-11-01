@@ -8,8 +8,8 @@
 
 
 
-![Anurag's GitHub stats width=40% ](https://github-readme-stats.vercel.app/api?username=jwor12427&show_icons=true&theme=dracula)
-[![GitHub Streak width=40%](https://streak-stats.demolab.com?user=jwor12427&theme=material-palenight&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)   
+![Anurag's GitHub stats width=35% ](https://github-readme-stats.vercel.app/api?username=jwor12427&show_icons=true&theme=dracula)
+[![GitHub Streak width=35%](https://streak-stats.demolab.com?user=jwor12427&theme=material-palenight&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)   
 
 [![Ashutosh's github activity graph width=80% ](https://activity-graph.herokuapp.com/graph?username=jwor12427&theme=rogue)](https://github.com/jwor12427/github-readme-activity-graph)   
 
