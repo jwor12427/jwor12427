@@ -27,6 +27,8 @@ react site01 : [![Netlify Status](https://api.netlify.com/api/v1/badges/8a869074
 
 react_api : [![Netlify Status](https://api.netlify.com/api/v1/badges/cb3f18bb-4ef4-41df-bbe4-5ae42f8cab90/deploy-status)](https://react-api-site01.netlify.app)
 
+vue site01 : https://vueclass-1427f.web.app
+
 
 
 </div>
