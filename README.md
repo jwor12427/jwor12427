@@ -23,9 +23,9 @@
 
 
 ### 😎 SITE
-react site01 : [![Netlify Status](https://api.netlify.com/api/v1/badges/8a869074-f728-4623-a99c-04e22eb204b2/deploy-status)](https://app.netlify.com/sites/react-site-make01)   
+react site01 : [![Netlify Status](https://api.netlify.com/api/v1/badges/8a869074-f728-4623-a99c-04e22eb204b2/deploy-status)](https://react-site-make01.netlify.app)   
 
-react_api : [![Netlify Status](https://api.netlify.com/api/v1/badges/cb3f18bb-4ef4-41df-bbe4-5ae42f8cab90/deploy-status)](https://app.netlify.com/sites/react-api-site01)
+react_api : [![Netlify Status](https://api.netlify.com/api/v1/badges/cb3f18bb-4ef4-41df-bbe4-5ae42f8cab90/deploy-status)](https://react-api-site01.netlify.app)
 
 
 
