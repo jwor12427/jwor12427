@@ -16,11 +16,6 @@
  </a>
 
 
- </a>
- <a href="github.com/ashutosh00710/github-readme-activity-graph">
- <img src="https://activity-graph.herokuapp.com/graph?username=jwor12427&theme=rogue" width=92%  />
- </a>
-
 
 ### 😎 SITE
 react site01 : [![Netlify Status](https://api.netlify.com/api/v1/badges/8a869074-f728-4623-a99c-04e22eb204b2/deploy-status)](https://react-site-make01.netlify.app)   
